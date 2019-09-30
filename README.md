@@ -1,9 +1,10 @@
 # KJAdaptiveTools
 一款XIB适配的工具
 <p align="left">
-  <img width="200" src="Res/IMG_0013.png" hspace="30px" />
-  <img width="200" src="Res/IMG_7170.png" hspace="30px" />
+  <img width="200" src="Res/IMG_0013.PNG" hspace="30px" />
+  <img width="200" src="Res/IMG_7170.PNG" hspace="30px" />
 </p>
+
 > 第一张是在6s上面显示  
 > 第二张是在8p上面显示
 
